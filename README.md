@@ -1,2 +1,3 @@
-# MOHESIQ-GLOBAL-HOLDINGS
-One Vision. Infinite Fields
+# MOHESIQ Global Holdings
+![Company Logo](logo.png)
+> **One Vision. Infinite Fields** 
